@@ -31,7 +31,7 @@ b, strong {
 img {
   display: inline-block;
     height: 50%;
-    width: 50%;
+    width: 100%;
     margin: 20px;
     border: solid 5px pink
 }
